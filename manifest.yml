@@ -1,5 +1,5 @@
 ---
 applications:
 - name: mixed-app
-  random-route: true
+  random-route: false
   memory: 64M
